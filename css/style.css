@@ -6,6 +6,75 @@
 
 .no-line{
     text-decoration: none;
-    color: blue;
+    color:rgb(120, 193, 218);
 }
 
+h1{
+    color:rgb(229,49, 112);
+}
+
+.bg-dark{
+    background-color:rgb(15,14,23) ;
+}
+
+.font-1{
+    font-family: 'Fredoka', sans-serif;
+}
+
+.flex{
+    display: flex;
+}
+
+.j-c{
+    justify-content:center;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.w-h{
+    width: 350px;
+    height: 100px;
+}
+
+.color-white{
+    color: white;
+}
+
+.t-center{
+    text-align: center;
+}
+
+
+.m-20{
+    margin: 20px;
+}
+
+.a-i{
+    align-items: center;
+}
+
+.m-top{
+    margin-top: 20px;
+}
+
+.m-bottom{
+    margin-bottom: 30px;
+}
+
+.direction{
+    flex-direction: column;
+}
+
+.j-c-s{
+    justify-content: space-between;
+}
+
+.margin{
+    margin:auto 200px;
+}
+
+.shadow{
+    box-shadow: 10px 10px rgb(207, 32, 32);
+}
