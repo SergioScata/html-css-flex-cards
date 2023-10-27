@@ -96,3 +96,7 @@ h1 {
 .height {
     height: 2%;
 }
+
+.bg-lightgrey{
+    background-color: rgb(190, 181, 181);
+}
